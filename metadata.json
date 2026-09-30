@@ -1,0 +1,6 @@
+{
+  "name": "Armory Craft - Fusão de Armas",
+  "description": "Jogo web de craft e fusão de armas com Tiers 1 ao 15, bancada 4x4, síntese sonora com Web Audio API e efeitos visuais em Canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
